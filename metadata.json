@@ -1,0 +1,12 @@
+{
+  "name": "Rural Health Monitoring AI",
+  "description": "Multilingual Rural Health Monitoring & Voice Assistant in Telugu, Hindi, and English.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
